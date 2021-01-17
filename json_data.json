@@ -1,0 +1,18 @@
+     {
+    "sample":[
+        {
+            "name": "one",
+            "path": "D:/Project_1/sample3.csv"
+        },
+        {
+            "name": "two",
+            "path": "D:/Project_1/sample34.csv"},
+        {
+            "name": "three",
+            "path": "D:/Project_1/sample333.csv"},
+        {
+            "name": "outputFile",
+            "path": "D:/Project_1/outputFile_Test.xlsx"
+        }
+        ]
+    }
